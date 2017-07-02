@@ -2,8 +2,8 @@
 .DS_Store/
 original-sources/
 .gradle/
-spring-examples.imi
 build/
 gradle-app.setting
 !gradle-wrapper.jar
 .gradletasknamecache
+spring-examples.iml
