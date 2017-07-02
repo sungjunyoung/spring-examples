@@ -7,6 +7,7 @@
         - 1-1 : [Hello Spring!](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-1)
         - 1-2 : [의존관계주입](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-2)
         - 1-3 : [Bean 라이프사이클](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-3)
+        - 1-4 : [AOP](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-4)
 
 - [토비의 스프링](http://www.acornpub.co.kr/book/toby-spring3.1-vol1) 예제
     > 준비중입니다.
