@@ -10,9 +10,9 @@
         - 1-2 : [의존관계주입](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-2)
         - 1-3 : [Bean 라이프사이클](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-3)
         - 1-4 : [AOP](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-4)
-        - 1-5 : [ㅅ실전 AOP](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-5)
+        - 1-5 : [실전 AOP](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/1-5)
     2. Chapter02 : 데이터베이스를 이용한 애플리케이션 만들기
-
+        - 2-1 : [팀 목록 만들기](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/2-1)
 
 - [토비의 스프링](http://www.acornpub.co.kr/book/toby-spring3.1-vol1) 예제
     > 준비중입니다.
