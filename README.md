@@ -14,6 +14,7 @@
     2. Chapter02 : 데이터베이스를 이용한 애플리케이션 만들기
         - 2-1 : [팀 목록 만들기](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/2-1)
         - 2-2 : [선수 등록하기](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/2-2)
+        - 2-3 : [목록에서 선수 정보 변경, 제거](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/2-3)
 
 - [토비의 스프링](http://www.acornpub.co.kr/book/toby-spring3.1-vol1) 예제
     > 준비중입니다.
