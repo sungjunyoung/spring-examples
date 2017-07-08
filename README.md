@@ -16,5 +16,7 @@
         - 2-2 : [선수 등록하기](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/2-2)
         - 2-3 : [목록에서 선수 정보 변경, 제거](https://github.com/sungjunyoung/spring-examples/tree/master/learn-spring-by-example/2-3)
 
+    > 토비의 스프링으로 넘어갑니당..
+
 - [토비의 스프링](http://www.acornpub.co.kr/book/toby-spring3.1-vol1) 예제
     > 준비중입니다.
