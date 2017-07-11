@@ -11,7 +11,7 @@ public class DConnectionMaker implements ConnectionMaker {
 	@Override
 	public Connection makeNewConnection() throws ClassNotFoundException, SQLException {
 		Class.forName("com.mysql.jdbc.Driver");
-		Connection c = DriverManager.getConnection("jdbc:mysql://localhost/springbook", "root", "sung1673");
+		Connection c = DriverManager.getConnection("jdbc:mysql://localhost/springbook", "{user}", "{password}");
 		return c;
 
 	}

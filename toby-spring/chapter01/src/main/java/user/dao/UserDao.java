@@ -2,20 +2,22 @@ package user.dao;
 
 import user.domain.User;
 
+import javax.sql.DataSource;
 import java.sql.*;
 
 /**
  * Created by junyoung on 2017. 7. 8..
  */
 public class UserDao {
-	private ConnectionMaker connectionMaker;
+	private DataSource dataSource;
 
-	public UserDao(ConnectionMaker connectionMaker){
-		this.connectionMaker = connectionMaker;
+	public void setDataSource(DataSource dataSource) {
+		this.dataSource = dataSource;
 	}
 
+
 	public void add(User user) throws ClassNotFoundException, SQLException {
-		Connection c = connectionMaker.makeNewConnection();
+		Connection c = dataSource.getConnection();
 
 		PreparedStatement ps = c.prepareStatement("INSERT INTO users(id, name, password) values(?,?,?)");
 		ps.setString(1, user.getId());
@@ -29,7 +31,7 @@ public class UserDao {
 	}
 
 	public User get(String id) throws ClassNotFoundException, SQLException {
-		Connection c = connectionMaker.makeNewConnection();
+		Connection c = dataSource.getConnection();
 
 		PreparedStatement ps = c.prepareStatement("SELECT * FROM users where id = ?");
 		ps.setString(1, id);
