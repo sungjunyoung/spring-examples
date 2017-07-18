@@ -9,6 +9,7 @@ import org.springframework.jdbc.datasource.SingleConnectionDataSource;
 import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import user.dao.JdbcContext;
 import user.dao.UserDao;
 import user.domain.User;
 

@@ -21,3 +21,6 @@
 - [토비의 스프링](http://www.acornpub.co.kr/book/toby-spring3.1-vol1) 예제
 
     1. [Chapter01](https://github.com/sungjunyoung/spring-examples/tree/master/toby-spring/chapter01) : 오브젝트와 의존관계
+    2. [Chapter02](https://github.com/sungjunyoung/spring-examples/tree/master/toby-spring/chapter02) : 테스트
+    3. [Chapter03](https://github.com/sungjunyoung/spring-examples/tree/master/toby-spring/chapter03) : 템플릿
+        - [템플릿-콜백 예제](https://github.com/sungjunyoung/spring-examples/tree/master/toby-spring/chapter03-simple-template-callback) 
